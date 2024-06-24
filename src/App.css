@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  
+  
+}
+nav h3{
+  padding-left: 6rem;
+  color: aliceblue;
+}
+
+nav h6{
+  color: aliceblue;
+}
+
+button{
+  color:white
+}
+.priceCarrito{
+  color:green
+
+}
+.container-card a{
+  color: white;
+}
